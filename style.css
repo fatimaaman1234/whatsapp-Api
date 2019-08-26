@@ -58,12 +58,12 @@
                         padding: 8px;
                         display: flex;
                         flex-direction: column;
-                        color: #c1bab3;
+                        color: #8a8282;
                     }
                     
                     #profile {
                         padding: 7px;
-                        padding-bottom: 20px;
+                        padding-bottom: 10px;
                         color: black;
                     }
                     
